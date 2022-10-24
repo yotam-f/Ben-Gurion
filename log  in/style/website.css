@@ -1,0 +1,12 @@
+body{
+background-color: rgb(61, 0, 61);
+}
+
+button{
+    background-color: rgb(227, 184, 10);
+    font-size: 35px;
+    border-radius: 50px;
+}
+ol{
+    font-size: 40px;  
+}
